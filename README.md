@@ -1,4 +1,4 @@
-# RoyerRivasplata-Portfolio
+# Royer-Rivasplata-Portfolio
 Mi repositorio personal.
 # ¡Hola! 👋 Soy Royer Rivasplata
 
